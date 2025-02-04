@@ -22,6 +22,7 @@ sidebar:
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
+  bluesky: # Specify your full Bluesky handle
   twitter: "@seokjeongeum910"
   stack-overflow: 13162018/seok-jeongeum # Number/Username, e.g. 123456/alandoe
   codewars:
